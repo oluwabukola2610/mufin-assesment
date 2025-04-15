@@ -85,9 +85,9 @@ const HeroCarousel: React.FC = () => {
                     {slide.description}
                   </p>
                   <img
-                    loading="lazy"
                     src="/src/assets/Line 1.svg"
                     alt="Decorative line"
+                    loading="lazy"
                     className=""
                   />
                   <h2 className="text-2xl md:text-4xl lg:text-5xl font-bold mb-4 mt-2">
